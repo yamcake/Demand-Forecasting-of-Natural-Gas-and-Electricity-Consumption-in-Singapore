@@ -11,7 +11,7 @@ This project was a Demand Forecasting assignment as part of my Decision Making a
 https://github.com/yamcake/Demand-Forecasting-of-Natural-Gas-and-Electricity-Consumption-in-Singapore/blob/master/Natural%20Gas%20and%20Electricity%20Demand%20Forecasting%20by%20Sector%20in%20Singapore.pptx
 
 **Excel Calculation Files**: <br />
-Natural Gas Calculations - https://github.com/yamcake/Demand-Forecasting-of-Natural-Gas-and-Electricity-Consumption-in-Singapore/blob/master/DMO-Natural%20Gas%20Forecasting.xls
+Natural Gas Calculations - https://github.com/yamcake/Demand-Forecasting-of-Natural-Gas-and-Electricity-Consumption-in-Singapore/blob/master/DMO-Natural%20Gas%20Forecasting.xls <br />
 Electricity Calculations - https://github.com/yamcake/Demand-Forecasting-of-Natural-Gas-and-Electricity-Consumption-in-Singapore/blob/master/DMO-Electricity%20Forecasting.xls
 
 Note that there is no accompanying code in this repository as this project was done using Excel.
